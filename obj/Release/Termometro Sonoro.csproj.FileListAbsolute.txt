@@ -1,0 +1,32 @@
+C:\Users\Victor\OneDrive\Programs Projects\SoundSerialTest\SoundSerialTest\bin\Release\System.Net.Http.dll
+C:\Users\Victor\OneDrive\Programs Projects\SoundSerialTest\SoundSerialTest\bin\Release\System.Net.Http.xml
+C:\Users\Victor\OneDrive\Programs Projects\SoundSerialTest\SoundSerialTest\obj\Release\Termometro Sonoro.csprojResolveAssemblyReference.cache
+C:\Users\Victor\OneDrive\Programs Projects\SoundSerialTest\SoundSerialTest\obj\Release\SoundSerialTest.Form1.resources
+C:\Users\Victor\OneDrive\Programs Projects\SoundSerialTest\SoundSerialTest\obj\Release\Termometro Sonoro.csproj.GenerateResource.Cache
+C:\Users\Victor\OneDrive\Programs Projects\SoundSerialTest\SoundSerialTest\bin\Release\Termometro Sonoro.exe.config
+C:\Users\Victor\OneDrive\Programs Projects\SoundSerialTest\SoundSerialTest\bin\Release\Termometro Sonoro.exe.manifest
+C:\Users\Victor\OneDrive\Programs Projects\SoundSerialTest\SoundSerialTest\bin\Release\Termometro Sonoro.application
+C:\Users\Victor\OneDrive\Programs Projects\SoundSerialTest\SoundSerialTest\bin\Release\Termometro Sonoro.exe
+C:\Users\Victor\OneDrive\Programs Projects\SoundSerialTest\SoundSerialTest\bin\Release\Termometro Sonoro.pdb
+C:\Users\Victor\OneDrive\Programs Projects\SoundSerialTest\SoundSerialTest\obj\Release\TermometroSonoro.Properties.Resources.resources
+C:\Users\Victor\OneDrive\Programs Projects\SoundSerialTest\SoundSerialTest\obj\Release\Termometro Sonoro.TrustInfo.xml
+C:\Users\Victor\OneDrive\Programs Projects\SoundSerialTest\SoundSerialTest\obj\Release\Termometro Sonoro.exe.manifest
+C:\Users\Victor\OneDrive\Programs Projects\SoundSerialTest\SoundSerialTest\obj\Release\Termometro Sonoro.application
+C:\Users\Victor\OneDrive\Programs Projects\SoundSerialTest\SoundSerialTest\obj\Release\Termometro Sonoro.exe
+C:\Users\Victor\OneDrive\Programs Projects\SoundSerialTest\SoundSerialTest\obj\Release\Termometro Sonoro.pdb
+C:\Users\Victor\OneDrive\Programs Projects\Termometro Sonoro\SoundSerialTest\bin\Release\Termometro Sonoro.exe.config
+C:\Users\Victor\OneDrive\Programs Projects\Termometro Sonoro\SoundSerialTest\obj\Release\Termometro Sonoro.exe
+C:\Users\Victor\OneDrive\Programs Projects\Termometro Sonoro\SoundSerialTest\obj\Release\Termometro Sonoro.pdb
+C:\Users\Victor\OneDrive\Programs Projects\Termometro Sonoro\SoundSerialTest\bin\Release\Termometro Sonoro.exe.manifest
+C:\Users\Victor\OneDrive\Programs Projects\Termometro Sonoro\SoundSerialTest\bin\Release\Termometro Sonoro.application
+C:\Users\Victor\OneDrive\Programs Projects\Termometro Sonoro\SoundSerialTest\bin\Release\Termometro Sonoro.exe
+C:\Users\Victor\OneDrive\Programs Projects\Termometro Sonoro\SoundSerialTest\bin\Release\Termometro Sonoro.pdb
+C:\Users\Victor\OneDrive\Programs Projects\Termometro Sonoro\SoundSerialTest\bin\Release\System.Net.Http.dll
+C:\Users\Victor\OneDrive\Programs Projects\Termometro Sonoro\SoundSerialTest\bin\Release\System.Net.Http.xml
+C:\Users\Victor\OneDrive\Programs Projects\Termometro Sonoro\SoundSerialTest\obj\Release\Termometro Sonoro.csprojResolveAssemblyReference.cache
+C:\Users\Victor\OneDrive\Programs Projects\Termometro Sonoro\SoundSerialTest\obj\Release\SoundSerialTest.Form1.resources
+C:\Users\Victor\OneDrive\Programs Projects\Termometro Sonoro\SoundSerialTest\obj\Release\TermometroSonoro.Properties.Resources.resources
+C:\Users\Victor\OneDrive\Programs Projects\Termometro Sonoro\SoundSerialTest\obj\Release\Termometro Sonoro.csproj.GenerateResource.Cache
+C:\Users\Victor\OneDrive\Programs Projects\Termometro Sonoro\SoundSerialTest\obj\Release\Termometro Sonoro.TrustInfo.xml
+C:\Users\Victor\OneDrive\Programs Projects\Termometro Sonoro\SoundSerialTest\obj\Release\Termometro Sonoro.exe.manifest
+C:\Users\Victor\OneDrive\Programs Projects\Termometro Sonoro\SoundSerialTest\obj\Release\Termometro Sonoro.application

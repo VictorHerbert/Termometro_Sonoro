@@ -1,0 +1,16 @@
+C:\Users\Victor\OneDrive\Programs Projects\SoundSerialTest\SoundSerialTest\bin\Release\SoundSerialTest.exe.config
+C:\Users\Victor\OneDrive\Programs Projects\SoundSerialTest\SoundSerialTest\bin\Release\SoundSerialTest.exe
+C:\Users\Victor\OneDrive\Programs Projects\SoundSerialTest\SoundSerialTest\bin\Release\SoundSerialTest.pdb
+C:\Users\Victor\OneDrive\Programs Projects\SoundSerialTest\SoundSerialTest\obj\Release\SoundSerialTest.Form1.resources
+C:\Users\Victor\OneDrive\Programs Projects\SoundSerialTest\SoundSerialTest\obj\Release\SoundSerialTest.Properties.Resources.resources
+C:\Users\Victor\OneDrive\Programs Projects\SoundSerialTest\SoundSerialTest\obj\Release\SoundSerialTest.csproj.GenerateResource.Cache
+C:\Users\Victor\OneDrive\Programs Projects\SoundSerialTest\SoundSerialTest\obj\Release\SoundSerialTest.exe
+C:\Users\Victor\OneDrive\Programs Projects\SoundSerialTest\SoundSerialTest\obj\Release\SoundSerialTest.pdb
+C:\Users\Victor\OneDrive\Programs Projects\SoundSerialTest\SoundSerialTest\obj\Release\SoundSerialTest.csprojResolveAssemblyReference.cache
+C:\Users\Victor\OneDrive\Programs Projects\SoundSerialTest\SoundSerialTest\obj\Release\SoundSerialTest.TrustInfo.xml
+C:\Users\Victor\OneDrive\Programs Projects\SoundSerialTest\SoundSerialTest\obj\Release\SoundSerialTest.exe.manifest
+C:\Users\Victor\OneDrive\Programs Projects\SoundSerialTest\SoundSerialTest\bin\Release\SoundSerialTest.exe.manifest
+C:\Users\Victor\OneDrive\Programs Projects\SoundSerialTest\SoundSerialTest\bin\Release\SoundSerialTest.application
+C:\Users\Victor\OneDrive\Programs Projects\SoundSerialTest\SoundSerialTest\bin\Release\System.Net.Http.dll
+C:\Users\Victor\OneDrive\Programs Projects\SoundSerialTest\SoundSerialTest\bin\Release\System.Net.Http.xml
+C:\Users\Victor\OneDrive\Programs Projects\SoundSerialTest\SoundSerialTest\obj\Release\SoundSerialTest.application
